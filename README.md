@@ -53,3 +53,12 @@ generate terraform/arm/cloud formation code using libraries.
 | Supported Feature 1  | Azure Stencils  | 50 |
 | Supported Feature 2  | AWS Stencils    | 50 |
 | Supported Feature 3  | GCP Stencils    | 50 |
+
+###Sequence Diagram
+                    
+```seq
+Andrew->China: Says Hello 
+Note right of China: China thinks\nabout it 
+China-->Andrew: How are you? 
+Andrew->>China: I am good thanks!
+```
