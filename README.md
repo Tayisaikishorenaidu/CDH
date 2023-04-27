@@ -41,7 +41,7 @@ By doing so, organizations can streamline the implementation process and ensure 
 
 ## Step1 : Use Tensorflow code pre-trained object detection models that can be fine tuned to recognize Azure, AWS & GCP Services from Stencils like SVG files.
 ## Step2 : Send the output using Tensorflow OD Api or Microsoft Azure Custom Vision Service.
-## Step3 : Phython scripts encodes the image to base64 string format, which can used as input for further processing, such as generating terraform code to deploy the cloud service
+## Step3 : Python scripts encodes the image to base64 string format, which can used as input for further processing, such as generating terraform code to deploy the cloud service
 
 ###Sequence Diagram (WIP)
                     
