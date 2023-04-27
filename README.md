@@ -49,7 +49,7 @@ which consists of Azure/AWS/GCP/oracle Stencils where model will Encode/decode a
 generate terraform/arm/cloud formation code using libraries.
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+| :------------------  |:---------------:| -----:|
+| Supported Feature 1  | Azure Stencils  | 50 |
+| Supported Feature 2  | AWS Stencils    | 50 |
+| Supported Feature 3  | AGCP Stencils   | 50 |
