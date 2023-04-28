@@ -31,11 +31,11 @@ By doing so, organizations can streamline the implementation process and ensure 
 ## So, after doing research and reading neural compute &amp; networking algorithms. I see a possibility to train a model with sample datasets which consists of 
 ## Azure/AWS/GCP/oracle Stencils where model will Encode/decode and generate terraform/arm/cloud formation code using libraries.
 
-| Model 1.0            | Dataset Annotation  | Stenciles Included |
-| :------------------  |:---------------:    | -----:|
-| Supported Feature 1  | Azure Stencils      | 50 |
-| Supported Feature 2  | AWS Stencils        | 50 |
-| Supported Feature 3  | GCP Stencils        | 50 |
+| Model Dataset 1.0            | Dataset Annotation  | Stenciles Included |
+| :------------------          |:---------------:    | -----:|
+| Supported Feature 1          | Azure Stencils      | 50 |
+| Supported Feature 2          | AWS Stencils        | 50 |
+| Supported Feature 3          | GCP Stencils        | 50 |
 
 ### Identified Flow Based on Research and Documentation
 
@@ -43,8 +43,13 @@ By doing so, organizations can streamline the implementation process and ensure 
 ## Step2 : Send the output using Tensorflow OD Api or Microsoft Azure Custom Vision Service.
 ## Step3 : Python scripts encodes the image to base64 string format, which can used as input for further processing, such as generating terraform code to deploy the cloud service
 
-###Sequence Diagram (WIP)
                     
-## Contributors & Team (yet to be announced)
+## Contributors & Dev Team (yet to be announced)
+
+## Tools (Identified - WIP) 
+
+## Coding (WIP)
+
+###Sequence Diagram (WIP)
 
 ###End
