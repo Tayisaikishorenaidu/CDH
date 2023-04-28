@@ -1,7 +1,7 @@
 # CDH
 CloudDeployHub
 
-# CloudDeployHub (www.CloudDeployHub.AI)
+# CloudDeployHub
 
 
 ![](https://github.com/Tayisaikishorenaidu/CDH/blob/main/cdh1.jpg)
@@ -45,6 +45,6 @@ By doing so, organizations can streamline the implementation process and ensure 
 
 ###Sequence Diagram (WIP)
                     
-
+## Contributors & Team (yet to be announced)
 
 ###End
