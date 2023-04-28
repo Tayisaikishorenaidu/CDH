@@ -23,8 +23,7 @@ Therefore, there is a need to identify and address the factors that contribute t
 
 By doing so, organizations can streamline the implementation process and ensure that they are able to deploy and manage their Cloud IT infrastructure and services in a timely and efficient manner with less efforts and more productivity.
 
-## Idea : A SaaS platform where Architects/Application owners will upload the futuristic reference cloud (azure/aws/gcp/oracle/multi-cloud/penta-cloud) to generate
-## Terraform/ARM/CloudFormation code templates from Architecture diagram (PNG/JPEG/PDF) which are ready to deploy in few minutes.
+## Idea : A SaaS platform where Architects/Application owners will upload the futuristic reference cloud (azure/aws/gcp/oracle/multi-cloud/penta-cloud) to generate Terraform/ARM/CloudFormation code templates from Architecture diagram (PNG/JPEG/PDF) which are ready to deploy in few minutes.
 
 ## Platform uses concept of converting image to code Transforming a graphical user interface screenshot created by a Architect into computercode is a typical task but not impossible. 
 
