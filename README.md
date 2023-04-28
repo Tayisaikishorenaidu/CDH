@@ -23,12 +23,7 @@ Therefore, there is a need to identify and address the factors that contribute t
 
 By doing so, organizations can streamline the implementation process and ensure that they are able to deploy and manage their Cloud IT infrastructure and services in a timely and efficient manner with less efforts and more productivity.
 
-## Idea : A SaaS platform where Architects/Application owners will upload the futuristic reference cloud (azure/aws/gcp/oracle/multi-cloud/penta-cloud) to generate Terraform/ARM/CloudFormation code templates from Architecture diagram (PNG/JPEG/PDF) which are ready to deploy in few minutes.
-
-## Platform uses concept of converting image to code Transforming a graphical user interface screenshot created by a Architect into computercode is a typical task but not impossible. 
-
-## So, after doing research and reading neural compute &amp; networking algorithms. I see a possibility to train a model with sample datasets which consists of 
-## Azure/AWS/GCP/oracle Stencils where model will Encode/decode and generate terraform/arm/cloud formation code using libraries.
+## Idea : A SaaS platform where Architects/Application owners will upload the futuristic reference cloud (azure/aws/gcp/oracle/multi-cloud/penta-cloud) to generate Terraform/ARM/CloudFormation code templates from Architecture diagram (PNG/JPEG/PDF) which are ready to deploy in few minutes. Platform uses concept of converting image to code Transforming a graphical user interface screenshot created by a Architect into computercode is a typical task but not impossible. Therefore, after doing research and reading neural compute &amp; networking algorithms. I see a possibility to train a model with sample datasets which consists of Azure/AWS/GCP/oracle Stencils where model will Encode/decode and generate terraform/arm/cloud formation code using libraries.
 
 | Model Dataset 1.0            | Dataset Annotation  | Stenciles Included |
 | :------------------          |:---------------:    | -----:|
@@ -38,9 +33,10 @@ By doing so, organizations can streamline the implementation process and ensure 
 
 ### Identified Flow Based on Research and Documentation
 
-## Step1 : Use Tensorflow code pre-trained object detection models that can be fine tuned to recognize Azure, AWS & GCP Services from Stencils like SVG files.
-## Step2 : Send the output using Tensorflow OD Api or Microsoft Azure Custom Vision Service.
-## Step3 : Python scripts encodes the image to base64 string format, which can used as input for further processing, such as generating terraform code to deploy the cloud service
+## Step1 : Prepare a dataset model 1.0 
+## Step2 : Use pre-trained object detection models that can be fine tuned to recognize Azure, AWS & GCP Services from Stencils like SVG files from dataset model 1.0
+## Step3 : Scripts encodes the image to base64 string format as Output
+## Step4 : Processing Output, such as generating terraform code to deploy the cloud services
 
                     
 ## Contributors & Dev Team (yet to be announced)
