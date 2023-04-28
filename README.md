@@ -46,6 +46,8 @@ By doing so, organizations can streamline the implementation process and ensure 
                     
 ## Contributors & Dev Team (yet to be announced)
 
+Any one interested to be part of this project. Kindly drop a note to tayisaikishorenaidu@gmail.com
+
 ## Tools (Identified - WIP) 
 
 ## Coding (WIP)
